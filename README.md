@@ -1,4 +1,4 @@
-# JS-Registrationform
+# Registrationform
 
 # 🚀&nbsp;Installation 
 1. Clone the repository 
